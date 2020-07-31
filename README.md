@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello!
+## My name is Marcin Kowalicki and I'm Junior Front-end Developer.
+
+
+💼 I'm currently working at [@Ethericall-Studio](https://github.com/Ethericall-Studio) as the Chief Programmer<br/>
+🎓 I'm currently learning C# for Unity<br />
+
+🤖 My GitHub Stats:<br /><br />
+![MarcinK50's github stats](https://github-readme-stats-lilac.vercel.app/api?username=MarcinK50&hide=prs,stars&show_icons=true)
 
 <!--
 **MarcinK50/MarcinK50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![MarcinK50's github stats](https://github-readme-stats-lilac.vercel.app/api?username=MarcinK50&hide=prs,stars&show_icons=true)
