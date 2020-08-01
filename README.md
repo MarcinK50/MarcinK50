@@ -6,7 +6,7 @@
 🎓 I'm currently learning C# for Unity<br />
 
 🤖 My GitHub Stats:<br /><br />
-![MarcinK50's github stats](https://github-readme-stats-lilac.vercel.app/api?username=MarcinK50&hide=prs,stars&show_icons=true&theme=gruvbox)
+![MarcinK50's github stats](https://github-readme-stats-lilac.vercel.app/api?username=MarcinK50&hide=prs,stars&show_icons=true&theme=onedark)
 
 <!--
 **MarcinK50/MarcinK50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
