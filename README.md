@@ -2,7 +2,7 @@
 <h2 align="center">My name is Marcin Kowalicki and I'm Junior Front-end Developer.</h2>
 
 
-<p align="center">💼 I'm currently working at [@Ethericall-Studio](https://github.com/Ethericall-Studio) as a Webdeveloper</p>
+<p align="center">💼 I'm currently working at Evec Code as a Front-end Developer</p>
 <p align="center">🎓 I'm currently learning C# for Unity</p><br />
 
 I'm programming in:
