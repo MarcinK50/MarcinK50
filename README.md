@@ -3,7 +3,6 @@
 
 
 <p align="center">💼 I'm currently working at Evec Code as a Front-end Developer</p>
-<p align="center">🎓 I'm currently learning C# for Unity</p><br />
 
 I'm programming in:
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="http://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></p>
