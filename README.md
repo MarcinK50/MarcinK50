@@ -2,18 +2,9 @@
 <h2 align="center">My name is Marcin Kowalicki and I'm Junior Front-end Developer.</h2>
 
 
-<p align="center">💼 I'm currently working at Evec Code as a Front-end Developer</p>
-
-I'm programming in:
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="http://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></p>
-
-I'm using:
-<p align="left"><img src="http://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-plain.svg" alt="firefox" width="40" height="40"/> <img src="http://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p>
-
-
-🤖 My GitHub Stats:<br /><br />
-![MarcinK50's github stats](https://github-readme-stats-lilac.vercel.app/api?username=MarcinK50&hide=prs,stars&show_icons=true&theme=onedark)<br /><br />
-
+![GitHub metrics](https://metrics.lecoq.io/MarcinK50?languages=1&isocalendar=1&followup=1&isocalendar.duration=full-year)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinK50&layout=compact&theme=radical&bg_color=0,141321,4E1E3C)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![MarcinK50's github stats](https://github-readme-stats.vercel.app/api?username=MarcinK50&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MarcinK50/MarcinK50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
