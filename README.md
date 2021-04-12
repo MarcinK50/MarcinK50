@@ -1,8 +1,6 @@
 <h1 align="center">Hello!</h1>
 <h2 align="center">My name is Marcin Kempka and I'm CEO at Librus.</h2>
 
-
-![GitHub metrics](https://metrics.lecoq.io/MarcinK50?languages=1&isocalendar=1&followup=1&isocalendar.duration=full-year)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinK50&layout=compact&theme=radical&bg_color=0,141321,4E1E3C)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![MarcinK50's github stats](https://github-readme-stats.vercel.app/api?username=MarcinK50&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 <!--
