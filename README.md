@@ -1,5 +1,5 @@
 <h1 align="center">Hello!</h1>
-<h2 align="center">My name is Marcin Kowalicki and I'm Junior Front-end Developer.</h2>
+<h2 align="center">My name is Marcin Kempka and I'm CEO at Librus.</h2>
 
 
 ![GitHub metrics](https://metrics.lecoq.io/MarcinK50?languages=1&isocalendar=1&followup=1&isocalendar.duration=full-year)<br>
