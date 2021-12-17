@@ -1,8 +1,11 @@
-<h1 align="center">Hello!</h1>
-<h2 align="center">My name is Marcin and I'm fullstack developer</h2>
+# Hello!
+## My name is Marcin
+My GitHub stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcinK50&layout=compact&theme=radical&bg_color=0,141321,4E1E3C)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![MarcinK50's github stats](https://github-readme-stats.vercel.app/api?username=MarcinK50&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&bg_color=0,141321,4E1E3C&hide_title=true&hide_border=true&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinK50&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Also chess player on [lichess.org](https://lichess.org).
+
 <!--
 **MarcinK50/MarcinK50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
