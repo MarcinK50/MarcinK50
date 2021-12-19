@@ -9,7 +9,7 @@ a_file = open("README.md", "r")
 list_of_lines = a_file.readlines()
 for i, line in enumerate(list_of_lines):
     if line.__contains__('rated'):
-        list_of_lines[i] = f"I'm rated {rapid_rank} after {rapid_games} rapid games.\n"
+        list_of_lines[i] = f"I'm rated test after {rapid_games} rapid games.\n"
 
 
 a_file = open("README.md", "w")
