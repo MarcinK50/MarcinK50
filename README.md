@@ -6,6 +6,8 @@ My GitHub stats:
 
 Also chess player on [lichess.org](https://lichess.org).
 
+I'm rated 1332 after 591 rapid games.
+
 <!--
 **MarcinK50/MarcinK50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
