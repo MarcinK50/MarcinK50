@@ -26,3 +26,7 @@ jobs:
     - name: Run script
       run: |
         python update.py
+    - name: Commit results
+      run: |
+        git commit README.md -m 'Update README.md with latest lichess stats' || echo "No changes to commit"
+        git push origin || echo "No changes to commit"
