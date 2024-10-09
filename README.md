@@ -1,13 +1,6 @@
 # Hello!
 ## My name is Marcin
-My GitHub stats:
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcinK50&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Also chess player on [lichess.org](https://lichess.org).
-
-I'm rated 1332 after 591 rapid games.
-
+tu na razie jest ściernisko ale będzie san francisco
 <!--
 **MarcinK50/MarcinK50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
